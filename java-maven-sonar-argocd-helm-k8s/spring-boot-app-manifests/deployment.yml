@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: abhishekf5/maven-abhishek-docker-agent:v1
+        image: bledard/maven-abhishek-docker-agent:v1
         ports:
         - containerPort: 8080
